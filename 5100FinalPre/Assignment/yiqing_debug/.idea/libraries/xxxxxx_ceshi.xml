@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="xxxxxx_ceshi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/db4o-8.0.184.15484-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/beautyeye_lnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

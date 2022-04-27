@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5e2d0c0-7c06-45bc-88a4-b6431685e854" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="108" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectId" id="1yef8kZQ1uK7VTLyyXjv43fngGv" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lab_3_Skeleton" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainJFrame">
+    <configuration name="MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.MainJFrame" />
+      <module name="assignment11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadPho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.UploadPho" />
+      <module name="assignment11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainJFrame" />
+        <item itemvalue="Application.UploadPho" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e2d0c0-7c06-45bc-88a4-b6431685e854" name="Default Changelist" comment="" />
+      <created>1632526050839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632526050839</updated>
+      <workItem from="1632526052216" duration="1320000" />
+      <workItem from="1632616818351" duration="271000" />
+      <workItem from="1632617101458" duration="602000" />
+      <workItem from="1632617721141" duration="11428000" />
+      <workItem from="1633232286098" duration="594000" />
+      <workItem from="1633484698254" duration="112000" />
+      <workItem from="1633484961923" duration="320000" />
+      <workItem from="1633555074332" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1090000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="72" width="1260" height="640" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26123127" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="217" key="#Project_Structure" timestamp="1632617594383">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="217" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1632617594383" />
+    <state x="479" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632617631956">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1632617631956" />
+    <state x="830" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1632628269066">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1632628269066" />
+    <state x="805" y="248" key="FileChooserDialogImpl" timestamp="1632617695495">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="248" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1632617695495" />
+    <state width="2005" height="189" key="GridCell.Tab.0.bottom" timestamp="1632629383827">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="189" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1632629383827" />
+    <state width="2005" height="189" key="GridCell.Tab.0.center" timestamp="1632629383826">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="189" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1632629383826" />
+    <state width="2005" height="189" key="GridCell.Tab.0.left" timestamp="1632629383826">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="189" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1632629383826" />
+    <state width="2005" height="189" key="GridCell.Tab.0.right" timestamp="1632629383826">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="189" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1632629383826" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1632620763588">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1632620763588" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1632620763588">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1632620763588" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1632620763588">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1632620763588" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1632620763588">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1632620763588" />
+    <state x="664" y="259" key="NewModule_or_Project.wizard" timestamp="1632617479544">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="664" y="259" key="NewModule_or_Project.wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1632617479544" />
+    <state x="505" y="133" key="SettingsEditor" timestamp="1632617698144">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="133" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1632617698144" />
+    <state x="434" y="259" key="new project wizard" timestamp="1632617361143">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="434" y="259" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1632617361143" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1632617047045">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1632617047045" />
+  </component>
+</project>

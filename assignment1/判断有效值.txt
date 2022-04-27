@@ -1,0 +1,23 @@
+输入合法性：
+判断是否是空+格式是否正确
+如果有空，最后save的时候自动弹出“Sorry, the text box cannot be empty.”
+如果有输入值格式错误，直接自动弹出“ Sorry, please enter a valid value."
+
+Name,Geographic data: 不为空 string型 
+NUID number：判断是否为9位数字
+DOB（MM/DD/YYYY)：判断日期类型是否为MM/DD/YYYY
+Telephon：判断是否为10位数字
+FAX:判断是否为10位数字
+Email地址：^\w+[-+.]\w+)@\w+([-.]\w+).\w+([-.]\w+)*$
+SSN：判断是否为9位数字
+Medical record number：判断是否为7位数字
+Health plan beneficiary number：判断是否为7位数字
+Linkedln：^http://([\w-]+.)+[\w-]+(/[\w-./?%&=]*)?
+Bank account number：判断数字个数在10-20之间
+Certificate，七位
+vehicle，device，internet：判断不为空 
+
+CSDN验证输入的合法性正则表达式参考：
+https://blog.csdn.net/qq_49045151/article/details/108331414
+
+https://blog.csdn.net/Rampage_w/article/details/100691954?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242

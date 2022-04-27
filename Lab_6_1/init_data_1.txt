@@ -1,0 +1,27 @@
+### Admin Organization
+## username | password | role | organization | person
+sysadmin | sysadmin | Sysadmin | Admin Organization | Leqi Wei
+
+### Restaurant Organization
+## username | password | role | organization | person | restaurantName
+restaurant1 | 111111 | RestaurantAdmin | Restaurant Organization | Jennifer Aniston | Tasty Burger
+restaurant2 | 222222 | RestaurantAdmin | Restaurant Organization | Courteney Cox | Tatte Cafe
+
+### Customer Organization
+## username | password | role | organization | person
+customer1 | 333333 | Customer | Customer Organization | Matthew Perry
+customer2 | 444444 | Customer | Customer Organization | David Brown
+
+### Delivery Organization
+## username | password | role | organization | person
+deliveryman1 | 555555 | DeliveryMan | Delivery Organization | Matt LeBlanc
+deliveryman2 | 666666 | DeliveryMan | Delivery Organization | Lisa Kudrow
+
+### Restaurant Menu
+## username | restaurantName | meal | price
+restaurant1 | Tasty Burger | Chicken Hamburger | 8.5
+restaurant1 | Tasty Burger | French Fries | 5.5
+restaurant2 | Tatte Cafe | Strawberry Icecream | 8.0
+restaurant2 | Tatte Cafe | Beef Sandwich | 7.5
+restaurant2 | Tatte Cafe | Poached Eggs | 9.0
+restaurant2 | Tatte Cafe | Pastry Basket | 9.5
